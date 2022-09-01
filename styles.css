@@ -111,3 +111,10 @@ button:hover {
   padding-right: 1px;
   opacity: 100%;
 }
+a {
+  color: rgb(1, 48, 83);
+}
+a:hover {
+  color: black;
+  text-decoration: none;
+}
